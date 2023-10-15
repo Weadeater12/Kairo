@@ -80,7 +80,7 @@ namespace Kairo
         public override string Level1Description => "Shoot 1 dart at a fast rate with low Popping Power.";
 
         public override string Description =>
-            "Commands all air Units and stike most Bloons in his path";
+            "Commands all air Units and strike most Bloons in his path";
         public override string NameStyle => TowerType.Gwendolin; // Yellow colored
         public override string BackgroundStyle => TowerType.Etienne; // Yellow colored
         public override string GlowStyle => TowerType.StrikerJones; // Yellow colored
