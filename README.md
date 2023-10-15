@@ -5,7 +5,7 @@
 
 <h1 align="center">Kairo</h1>
 
-Kairo is a master of the air.He commands all air Units and strike most Bloons in his path
+Kairo is a master of the air. He commands all air Units and strike most Bloons in his path
 
 
 [![Requires BTD6 Mod Helper](https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/banner.png)](https://github.com/gurrenm3/BTD-Mod-Helper#readme)
